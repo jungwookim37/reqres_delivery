@@ -17,4 +17,3 @@ spec:
           image: admin3devopsacr.azurecr.io/delivery
           ports:
             - containerPort: 8080
-            
